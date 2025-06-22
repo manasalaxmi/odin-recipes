@@ -15,9 +15,3 @@ Later, this project will be revisited and improved with CSS and other technologi
 - Writing semantic, well-structured **HTML**
 - Using **relative links** to navigate between web pages
 - Organizing project folders
-
-##  Future Improvements
-
-- Add CSS styling for better visual appearance
-- Make the website responsive for different screen sizes
-- Improve accessibility and SEO
